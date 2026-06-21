@@ -94,6 +94,6 @@ This repository contains the Python projects that I have completed while learnin
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this repository is to practice Python for data analysis and improve my understanding of working with real-world datasets. It also helps me build my programming and data analysis skills through hands-on projects.
